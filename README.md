@@ -125,3 +125,24 @@ To set up this project locally, follow these steps:
                 |                          |
                 +--------------------------+
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## ** WEB-APPLICATION **
+![Project Screenshot](Images/LandingPage.png)
